@@ -3,8 +3,19 @@
 A learning repo that builds a football club data platform, one module at a time.
 
 ## Mission
-
-<!-- BALTHA: write this -->
+The data team serves the coaches and their assistants, who analyse their own
+team and the opponent before and after each match; the medical and performance
+staff, who manage each athlete's load and treatment; and the sporting director
+and scouts, who decide which players to buy and sell. After every match, the
+post-match report on our team and the opponent is available within 12 hours of
+the final whistle in 90% of matches, within 24 hours in 95% and within 36 hours
+in 99% (targets). Every number is validated before it reaches a report, and
+each metric has one definition and expected boundaries, so that two reports
+never disagree and any value outside its boundaries is flagged for review
+before publishing. We deliver reports, dashboards and analyses built on one
+shared data platform; the coaches, doctors and sporting director make the
+football decisions. We start with the men's first team; the women's team and
+the youth sides follow.
 
 ## Architecture (to be)
 
